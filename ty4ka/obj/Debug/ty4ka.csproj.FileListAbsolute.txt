@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\ty4ka\bin\Debug\ty4ka.exe.config
+C:\Users\student\Desktop\ty4ka\bin\Debug\ty4ka.exe
+C:\Users\student\Desktop\ty4ka\bin\Debug\ty4ka.pdb
+C:\Users\student\Desktop\ty4ka\obj\Debug\ty4ka.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ty4ka\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\ty4ka\obj\Debug\App.g.cs
+C:\Users\student\Desktop\ty4ka\obj\Debug\ty4ka_MarkupCompile.cache
+C:\Users\student\Desktop\ty4ka\obj\Debug\ty4ka_MarkupCompile.lref
+C:\Users\student\Desktop\ty4ka\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\ty4ka\obj\Debug\ty4ka.g.resources
+C:\Users\student\Desktop\ty4ka\obj\Debug\ty4ka.Properties.Resources.resources
+C:\Users\student\Desktop\ty4ka\obj\Debug\ty4ka.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ty4ka\obj\Debug\ty4ka.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ty4ka\obj\Debug\ty4ka.exe
+C:\Users\student\Desktop\ty4ka\obj\Debug\ty4ka.pdb
